@@ -1,13 +1,13 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
-  "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
+  "name": "بـوت هوكس",
+  "description": "بـوت هوكس العربي الثالث في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @C7CCQ ",
+  "logo": "https://telegra.ph/file/541c6cd93a64b7da7dd94.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/jmthon",
+  "repository": "https://github.com/hussen87/jmthon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
